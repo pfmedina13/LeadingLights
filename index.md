@@ -94,4 +94,44 @@ Central references and systems:
 ## 6. Forms & Downloads
 
 Downloadable resources and templates:
-- Goal-s
+- Goal-setting forms  
+- Coaching sheets  
+- Incident report templates  
+- Club/leadership applications  
+- Checklists and routine trackers  
+
+---
+
+## 7. Metrics & Standards
+
+Covers OCA’s major performance indicators:
+- Non-academic metrics and standards  
+- Leadership grades  
+- 360 evaluations  
+- Bronze / Silver / Gold Star qualifications  
+- Awarding mechanisms  
+
+---
+
+## 8. FAQs
+
+Common questions from cadets and parents:
+- Who is my Formation Officer?  
+- How are leadership grades computed?  
+- What happens with violations?  
+- How do I apply for leadership?  
+- When are awards given?  
+
+---
+
+## 9. Contact OCA
+
+For questions or assistance:
+
+- **Office Location:** (insert details)  
+- **Email:** (insert official OCA email)  
+- **Office Hours:** (days and times)  
+- **Formation Officers:** (optional directory link)
+
+---
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_
