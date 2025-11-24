@@ -1,3 +1,13 @@
+<style>
+  /* Big obvious orange test */
+  body {
+    border-top: 6px solid orange;
+  }
+  a {
+    color: orange;
+  }
+</style>
+
 title: LeadingLights – OCA Portal
 description: Official documentation hub for the Office of Cadet Affairs (OCA), MOL Magsaysay Maritime Academy.
 
