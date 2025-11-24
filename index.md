@@ -1,35 +1,47 @@
 ---
-title: Home
-nav_order: 1
+title: Leading Lights OCA
+layout: default
 ---
 
-# Leading Lights — Office of Cadet Affairs
+# Leading Lights – Office of Cadet Affairs
 
-Welcome to the official documentation site for the **Office of Cadet Affairs (OCA)** of MOL Magsaysay Maritime Academy.
+Welcome to the **Office of Cadet Affairs (OCA)** portal of MOL Magsaysay Maritime Academy.
 
-This site is built as a living, evolving guide for:
+This site will eventually become the **central hub** for:
 
-- **Cadets** — to understand expectations, standards, and developmental pathways  
-- **Formation Officers (FOs)** — to access guidelines, frameworks, and coaching tools  
-- **Fleet Leaders & Team Leaders** — to execute systems with clarity and excellence
-
----
-
-## What is Leading Lights?
-
-**Leading Lights** represents the vision of OCA:  
-To shape cadets into leaders of **discipline**, **excellence**, and **service**,  
-through clear systems, intentional development, and transformational leadership.
+- 📌 Announcements and memos for cadets  
+- 🎯 Leadership development goals and tracking  
+- ⭐ Non-academic metrics and awards (Gold / Silver / Bronze Stars)  
+- 🧭 Resources for Formation Officers and coaches  
+- 📝 Forms and links (CLDP, 360 evals, BMI & PFT results, etc.)
 
 ---
 
-## What you will find here
+## What is OCA?
 
-- **OCA Systems & Playbooks**  
-- **Leadership Development (CLDP, Code for Life, etc.)**  
-- **Cadet Standards & Non-academic Metrics**  
-- **Guides for Team Leaders, Fleet Officers, and FOs**  
-- **Tools for coaching, mentoring, and evaluating cadets**  
-- **Future dashboards** (goals, leadership grades, BMI/PFT, star awards)
+The **Office of Cadet Affairs (OCA)** exists to help cadets grow in:
 
-Use the navigation on the left to begin exploring.
+- **Character**  
+- **Leadership**  
+- **Academics**  
+- **Physical Fitness**  
+- **Lifeskills (CLAP-L)**  
+
+We work closely with Formation Officers, Fleet Officers, and student leaders to make sure cadets are:
+
+- Guided  
+- Supported  
+- Accountable  
+- Equipped to lead, not just comply.
+
+---
+
+## What you can expect here soon
+
+- 📊 Dashboards for coachees and Formation Officers  
+- 🎯 Goal-setting pages per cadet per semester  
+- 🔁 History of goals and achievements  
+- 🧑‍✈️ Tools for tracking leadership positions and service  
+- 🏅 Star awards visibility (Gold / Silver / Bronze Star per semester)
+
+Stay tuned. This is **Version 1** of the OCA site — we’re just getting started.
