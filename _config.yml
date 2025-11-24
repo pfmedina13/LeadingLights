@@ -1,25 +1,20 @@
 title: LeadingLights – OCA Portal
 description: Official documentation hub for the Office of Cadet Affairs (OCA), MOL Magsaysay Maritime Academy.
 
-# Use the Just-the-Docs theme
 remote_theme: just-the-docs/just-the-docs
 
-# URL settings for GitHub Pages
 url: "https://pfmedina13.github.io"
 baseurl: "/LeadingLights"
 
-# Enable search
 search_enabled: true
 
-# Navigation options
 aux_links:
   "View on GitHub":
     - "https://github.com/pfmedina13/LeadingLights"
-    # Custom theme colors
+
+# Custom theme colors
 color_scheme: light
 
-# Override default accent color
 just_the_docs:
   color_scheme: light
-  accent_color: "#ff8800"
-
+  accent_color: "#ff8800"   # ← ORANGE
