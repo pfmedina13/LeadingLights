@@ -1,48 +1,32 @@
 ---
-title: Home
-nav_order: 1
+title: LeadingLights OCA Portal
 ---
 
-# Office of Cadet Affairs (OCA)
+# LeadingLights  
+### Office of Cadet Affairs · MOL Magsaysay Maritime Academy
 
-Welcome to the **Leading Lights** documentation site for the Office of Cadet Affairs (OCA).
-This site will serve as the central hub for cadet systems, guidelines, programs, and resources.
-
-This site will eventually become the **central hub** for:
-
-- 📌 Announcements and memos for cadets  
-- 🎯 Leadership development goals and tracking  
-- ⭐ Non-academic metrics and awards (Gold / Silver / Bronze Stars)  
-- 🧭 Resources for Formation Officers and coaches  
-- 📝 Forms and links (CLDP, 360 evals, BMI & PFT results, etc.)
+Welcome to the **LeadingLights OCA Portal**.  
+This site serves as the central hub for **non-academic formation, leadership development, and cadet services**.
 
 ---
 
-## What is OCA?
+## Quick Links
 
-The **Office of Cadet Affairs (OCA)** exists to help cadets grow in:
-
-- **Character**  
-- **Leadership**  
-- **Academics**  
-- **Physical Fitness**  
-- **Lifeskills (CLAP-L)**  
-
-We work closely with Formation Officers, Fleet Officers, and student leaders to make sure cadets are:
-
-- Guided  
-- Supported  
-- Accountable  
-- Equipped to lead, not just comply.
+- [1. About the Office of Cadet Affairs](#1-about-the-office-of-cadet-affairs)
+- [2. For Cadets](#2-for-cadets)
+- [3. For Formation Officers](#3-for-formation-officers)
+- [4. Programs & Campaigns](#4-programs--campaigns)
+- [5. Policies & Guidelines](#5-policies--guidelines)
+- [6. Forms & Downloads](#6-forms--downloads)
+- [7. Metrics & Standards](#7-metrics--standards)
+- [8. FAQs](#8-faqs)
+- [9. Contact OCA](#9-contact-oca)
 
 ---
 
-## What you can expect here soon
+## 1. About the Office of Cadet Affairs
 
-- 📊 Dashboards for coachees and Formation Officers  
-- 🎯 Goal-setting pages per cadet per semester  
-- 🔁 History of goals and achievements  
-- 🧑‍✈️ Tools for tracking leadership positions and service  
-- 🏅 Star awards visibility (Gold / Silver / Bronze Star per semester)
+The **Office of Cadet Affairs (OCA)** is responsible for the **holistic formation** of MMMA cadets beyond academics.  
+We focus on character, leadership, discipline, physical fitness, and life skills — forming cadets who will be **leading lights** in the maritime industry and in life.
 
-Stay tuned. This is **Version 1** of the OCA site — we’re just getting started.
+> “We train cadets not ju
