@@ -1,0 +1,15 @@
+title: Leading Lights – OCA Docs
+description: Official documentation hub for the Office of Cadet Affairs (OCA) – policies, guidelines, and tools for cadets and Formation Officers.
+
+remote_theme: just-the-docs/just-the-docs
+
+# GitHub Pages settings
+url: "https://pfmedina13.github.io"
+baseurl: "/LeadingLights"
+
+# Navigation & style
+logo: false
+search_enabled: true
+aux_links:
+  "View on GitHub":
+    - "https://github.com/pfmedina13/LeadingLights"
