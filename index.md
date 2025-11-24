@@ -1,158 +1,102 @@
 ---
 title: LeadingLights OCA Portal
+nav_order: 1
 ---
 
-<div style="background:#ff7a00; color:#ffffff; padding:1.75rem 1.5rem; border-radius:12px; margin-bottom:2rem;">
-  <h1 style="margin:0; font-size:2.2rem; font-weight:700;">
-    LeadingLights
-  </h1>
-  <p style="margin:0.4rem 0 0; font-size:1.1rem;">
-    <strong>Office of Cadet Affairs · MOL Magsaysay Maritime Academy</strong>
-  </p>
-  <p style="margin:0.8rem 0 0; max-width:42rem; line-height:1.5;">
-    Central hub for <strong>non-academic formation, leadership development, discipline, physical fitness, and cadet services</strong>.
-  </p>
-</div>
+# LeadingLights  
+### Office of Cadet Affairs · MOL Magsaysay Maritime Academy
 
-<div style="border-left:6px solid #ff7a00; padding:0.75rem 1rem; margin-bottom:2rem; background:#fff7ec;">
-  <strong>Quick Access:</strong> Use the sidebar, search bar, or the links below to jump to key sections.
-</div>
-
-## Quick Links
-
-- [1. About the Office of Cadet Affairs](#1-about-the-office-of-cadet-affairs)
-- [2. For Cadets](#2-for-cadets)
-- [3. For Formation Officers](#3-for-formation-officers)
-- [4. Programs & Campaigns](#4-programs--campaigns)
-- [5. Policies & Guidelines](#5-policies--guidelines)
-- [6. Forms & Downloads](#6-forms--downloads)
-- [7. Metrics & Standards](#7-metrics--standards)
-- [8. FAQs](#8-faqs)
-- [9. Contact OCA](#9-contact-oca)
-
-<hr style="border:0; border-top:4px solid #ff7a00; margin:2rem 0;" />
-
-## 1. About the Office of Cadet Affairs
-
-The **Office of Cadet Affairs (OCA)** is responsible for the **holistic formation** of MMMA cadets beyond academics.  
-We focus on:
-
-- **Character & Leadership**
-- **Discipline & Conduct**
-- **Physical Fitness & Lifeskills**
-- **Community & Service**
+Welcome to the **LeadingLights OCA Portal**.  
+This site is the central hub for **non-academic formation, leadership development, and cadet services** at MMMA.
 
 > “We train cadets not just for a job, but for life.”
 
-Our mission is to ensure that every cadet becomes a **leading light** in the maritime industry, at home, and in society.
+---
+
+## How to Use This Portal
+
+- **Cadets** – use this site to understand expectations, find forms, track programs, and know where to go for help.
+- **Formation Officers (FOs)** – use this as a reference for programs, systems, policies, and how we partner with cadets.
+- **Parents & Guardians** – use the FAQ section to understand how MMMA forms and cares for your cadets.
 
 ---
 
-## 2. For Cadets
+## Quick Navigation
 
-This portal is designed to help cadets:
+Use the **sidebar on the left** (or the menu on mobile) to browse sections, or start with these key pages:
 
-- Understand **non-academic standards** and expectations  
-- Track **leadership roles**, **awards**, and **formation programs**  
-- Access **forms, policies, and opportunities** for growth
-
-Future features:
-
-- Personal **goals dashboard**
-- Leadership **position history**
-- Summary of **merits, awards, and recognitions**
-
----
-
-## 3. For Formation Officers
-
-A space for FOs to:
-
-- View and coordinate **formation programs**  
-- Align on **metrics, grading, and standards**  
-- Access **templates, forms, and guidelines** used across OCA
-
-This section will later include:
-
-- **Coaching tools** and reflection guides  
-- **OCA-wide campaigns** and implementation plans  
-- Shared **best practices** and documentation
+- 👉 [OCA Overview](oca-overview.md)  
+- 🧭 [OCA Structure & Units](oca-structure.md)  
+- 🎓 [Cadet Leadership Development Program (CLDP)](cldp.md)  
+- ⚙️ [Cadet Systems & Policies](cadet-systems-policies.md)  
+- 🛡️ [Health, Safety & Discipline](health-safety-discipline.md)  
+- 🤝 [Formation Officers & Coaching](formation-officers.md)  
+- 🏅 [Awards & Recognition](awards-recognition.md)  
+- 🎨 [Clubs & Organizations](clubs-organizations.md)  
+- ❓ [Cadets & Parents FAQ](cadets-parents-faq.md)
 
 ---
 
-## 4. Programs & Campaigns
+## What OCA Oversees
 
-Highlighting key formation initiatives such as:
+The **Office of Cadet Affairs (OCA)** is responsible for the **holistic formation** of MMMA cadets beyond academics.  
+Our work focuses on the CLAP-L domains:
 
-- **Cadet Leadership Development Program (CLDP)**
-- **Live the Code Campaign**
-- **Special Leadership Development Programs (SLDP)**
-- **Retreats, seminars, and workshops**
+- **Character** – integrity, discipline, and living the MMMA Code for Life  
+- **Leadership** – leading self, leading others, and leading teams  
+- **Academics Support** – habits, environment, and systems that help cadets succeed  
+- **Physical Fitness** – health, strength, and readiness for life at sea  
+- **Lifeskills** – people skills, decision-making, and personal responsibility  
 
-Each program page (to follow) will include:
-- Purpose & objectives  
-- Target cadets  
-- Flow, schedule, and materials  
-
----
-
-## 5. Policies & Guidelines
-
-Here you’ll find (soon):
-
-- **Code for Life** and related resolutions  
-- Discipline **policies and procedures**  
-- Standards for **liberties, merits, and demerits**  
-- Guidelines for **leadership positions and succession**
+OCA partners with **departments, Formation Officers, Fleet Officers, and clubs** to align all these areas.
 
 ---
 
-## 6. Forms & Downloads
+## For Cadets
 
-Planned contents:
+As a cadet, this portal will eventually help you:
 
-- Application and request forms  
-- Templates for reports and documentation  
-- Checklists for events, programs, and evaluations  
+- See your **leadership roles** across semesters  
+- Track key **non-academic metrics and standards**  
+- Understand **policies, systems, and processes** (liberty, merits, discipline, etc.)  
+- Explore **clubs and organizations** where you can serve and grow  
+- Know how to **request help, coaching, or clarification**
 
----
+Start by reading:
 
-## 7. Metrics & Standards
-
-OCA’s goal:  
-> **80% of cadets achieve the prescribed non-academic quantitative and qualitative metrics and standards.**
-
-This section will later centralize:
-
-- Definitions of **non-academic metrics**  
-- Rubrics and grading scales  
-- Sample dashboards and score summaries  
+- [OCA Overview](oca-overview.md)  
+- [Cadet Systems & Policies](cadet-systems-policies.md)  
+- [Cadets & Parents FAQ](cadets-parents-faq.md)
 
 ---
 
-## 8. FAQs
+## For Formation Officers
 
-Frequently asked questions (examples for now):
+Formation Officers can use this site to:
 
-**Q: Who do I approach about merits, demerits, and leadership grades?**  
-A: Your **Formation Officer (FO)** and the **OCA Human Resource team**.
+- Align on **OCA structure, roles, and expectations**  
+- Reference **program frameworks** like CLDP and Live the Code  
+- Communicate **consistent standards** to cadets  
+- Prepare for future integration of **dashboards** (goals, 360 evals, BMI, PFT, leadership grades, star awards, etc.)
 
-**Q: Where can I see my leadership and formation records?**  
-A: This portal will soon link to a **cadet dashboard** with your goals, roles, and scores.
+Key pages:
 
----
-
-## 9. Contact OCA
-
-For concerns, clarifications, or suggestions:
-
-- Visit the **Office of Cadet Affairs** during office hours  
-- Coordinate through your **Formation Officer**  
-- (Future) Submit requests or feedback through an **online form**
+- [OCA Structure & Units](oca-structure.md)  
+- [Formation Officers & Coaching](formation-officers.md)  
+- [Awards & Recognition](awards-recognition.md)
 
 ---
 
-<div style="margin-top:2.5rem; padding:1rem 1.25rem; border-radius:10px; background:#fff3e0; border:1px solid #ffb369;">
-  <strong>Next for LeadingLights:</strong> This site will grow into a living portal where cadets and Formation Officers can 
-  <em>set goals, track progress, and celebrate wins together</em>.
-</div>
+## What’s Coming Next
+
+In future versions, LeadingLights aims to include:
+
+- Online **goal-setting forms** per semester  
+- Dashboards for **GWA, leadership grades, 360° feedback, BMI & PFT scores**  
+- Indicators for **Gold, Silver, and Bronze Star** holders  
+- Integrated tools for **FO–coachee tracking and coaching**
+
+For now, this site is a **living documentation hub** that will grow as OCA systems are refined.
+
+---
+*Last updated: {{ site.time | date: "%B %d, %Y" }}*
