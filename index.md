@@ -2,13 +2,36 @@
 title: LeadingLights OCA Portal
 ---
 
+<style>
+/* 🔶 LeadingLights temporary accent just to confirm styling works */
+:root {
+  --ll-accent: #ff7a00;
+}
+
+a {
+  color: var(--ll-accent);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Orange banner at the very top so it's super obvious */
+.ll-accent-banner {
+  border-left: 6px solid var(--ll-accent);
+  background: #fff7e6;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+</style>
+
+<div class="ll-accent-banner">
+  <strong>LeadingLights OCA Portal</strong><br>
+  This orange-highlighted banner is just a test to confirm that our custom styling works.
+</div>
+
 # LeadingLights  
 ### Office of Cadet Affairs · MOL Magsaysay Maritime Academy
-
-<div style="padding: 1rem; border-left: 6px solid orange; background:#fff7e6; margin-bottom:1.5rem;">
-  <strong>ORANGE TEST BOX:</strong>  
-  If you see this with an orange bar on the left, custom styling works.
-</div>
 
 Welcome to the **LeadingLights OCA Portal**.  
 This site serves as the central hub for **non-academic formation, leadership development, and cadet services**.
@@ -32,106 +55,107 @@ This site serves as the central hub for **non-academic formation, leadership dev
 ## 1. About the Office of Cadet Affairs
 
 The **Office of Cadet Affairs (OCA)** is responsible for the **holistic formation** of MMMA cadets beyond academics.  
-We focus on character, leadership, discipline, physical fitness, and life skills — forming cadets who will be **leading lights** in the maritime industry and in life.
+We focus on **character, leadership, discipline, physical fitness, and life skills** — forming cadets who will be **leading lights** in the maritime industry and in life.
 
 > “We train cadets not just for a job, but for life.”
-
-Here you will find:
-- Vision, mission, and OCA philosophy  
-- CLAP-L domains  
-- Leadership and formation systems  
-- OCA’s role in cadet development  
 
 ---
 
 ## 2. For Cadets
 
-This section will eventually allow cadets to:
-- View **semester goals**  
-- Track **non-academic metrics**  
-- See leadership positions held each term  
-- Access reminders and guidelines  
+This section will guide cadets on:
 
-> Future update: Cadet dashboard with goals, metrics, awards, and FO assignments.
+- Semestral **non-academic metrics and standards**
+- How to **earn, keep, or recover** leadership opportunities
+- Access to **coaching, mentoring, and support systems**
+- Guidelines for **liberties, merits, and demerits**
+
+(Coming soon: step-by-step guides, checklists, and downloadable tools.)
 
 ---
 
 ## 3. For Formation Officers
 
-For FOs and OCA staff:
+Resources and tools for **Formation Officers (FOs)**, including:
 
-- Coaching guidelines  
-- Coachee lists and monitoring tools  
-- 360 evaluation resources  
-- Leadership grading templates  
+- Access to **coachee lists**
+- Leadership **tracking tools** and templates
+- Links to **360° evaluations** and leadership grade uploads
+- Guides on **coaching, mentoring, and interventions**
 
 ---
 
 ## 4. Programs & Campaigns
 
-Programs anchored on OCA’s mission:
+OCA-led initiatives such as:
 
-- CLDP (Cadet Leadership Development Program)  
-- SLDP (Special Leadership Development Program)  
-- Live The Code Campaign  
-- Code for Life formation  
-- Cadet Candidate Orientation Program  
-- Other leadership labs, seminars, and retreats  
+- **Cadet Leadership Development Program (CLDP)**
+- **Live the Code** campaigns
+- Special leadership and integrity programs
+- Events for **character formation** and **service excellence**
+
+Each program page will contain:
+- Objectives  
+- Target cadets  
+- Schedules  
+- How to participate  
 
 ---
 
 ## 5. Policies & Guidelines
 
-Central references and systems:
-- Merits and demerits system  
-- Liberty & restrictions  
-- Disciplinary expectations  
-- Dormitory & mess hall discipline  
-- Conduct and behavior standards  
+Centralized reference for:
+
+- Non-academic **standards and expectations**
+- **Discipline** protocols and procedures
+- Dormitory, routines, and mess guidelines
+- Use of **gadgets, liberties, and special privileges**
+
+(Full policy documents and summaries to be added here.)
 
 ---
 
 ## 6. Forms & Downloads
 
-Downloadable resources and templates:
-- Goal-setting forms  
-- Coaching sheets  
-- Incident report templates  
-- Club/leadership applications  
-- Checklists and routine trackers  
+A one-stop section for:
+
+- Application forms for **leadership positions**
+- **Liberty** and **appeal** forms
+- Program registration forms
+- Templates for reports and reflections
 
 ---
 
 ## 7. Metrics & Standards
 
-Covers OCA’s major performance indicators:
-- Non-academic metrics and standards  
-- Leadership grades  
-- 360 evaluations  
-- Bronze / Silver / Gold Star qualifications  
-- Awarding mechanisms  
+Here we will publish:
+
+- The current **OCA metrics** (quantitative & qualitative)
+- Definitions of what counts as **“passing”** non-academic metrics
+- Sample **“If I do these things consistently, I pass”** checklists
+- Visual dashboards and trackers (future integration)
 
 ---
 
 ## 8. FAQs
 
-Common questions from cadets and parents:
-- Who is my Formation Officer?  
-- How are leadership grades computed?  
-- What happens with violations?  
-- How do I apply for leadership?  
-- When are awards given?  
+Frequently asked questions about:
+
+- Leadership positions and qualifications  
+- Handling **violations** and **restoration paths**  
+- Coaching and mentoring expectations  
+- How cadets can **seek help** or raise concerns  
 
 ---
 
 ## 9. Contact OCA
 
-For questions or assistance:
+Need assistance?
 
-- **Office Location:** (insert details)  
-- **Email:** (insert official OCA email)  
-- **Office Hours:** (days and times)  
-- **Formation Officers:** (optional directory link)
+- Visit the **Office of Cadet Affairs** during office hours  
+- Talk to your **Formation Officer** or **Team Leader**
+- (Future) Online contact form and helpdesk
 
 ---
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_
+
+*This site is under active development. Features for cadets, FOs, and OCA staff will be added gradually as LeadingLights grows.*
