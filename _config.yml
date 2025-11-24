@@ -1,11 +1,26 @@
 title: "LeadingLights OCA Portal"
-description: "Central hub for non-academic formation, leadership development, and cadet services."
-theme: just-the-docs
+description: >
+  Official Office of Cadet Affairs (OCA) portal for MOL Magsaysay Maritime Academy.
+  Central hub for non-academic formation, leadership development, and cadet services.
 
-url: "https://pfmedina13.github.io"
-baseurl: "/LeadingLights"
+# --- GitHub Pages URL settings ---
+url: "https://pfmedina13.github.io"   # your GitHub Pages root
+baseurl: "/LeadingLights"             # the repository name, with leading slash
 
-# Optional: shows a link back to the GitHub repo in the top-right
+# --- Use Just the Docs as a remote theme (GitHub Pages supported way) ---
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# --- Just the Docs options ---
+search_enabled: true
+color_scheme: light
+
+# Optional: top-right link back to GitHub
 aux_links:
   "View on GitHub":
     - "https://github.com/pfmedina13/LeadingLights"
+
+# Navigation (we’ll refine later)
+nav_sort: case_sensitive
