@@ -15,3 +15,11 @@ search_enabled: true
 aux_links:
   "View on GitHub":
     - "https://github.com/pfmedina13/LeadingLights"
+    # Custom theme colors
+color_scheme: light
+
+# Override default accent color
+just_the_docs:
+  color_scheme: light
+  accent_color: "#ff8800"
+
