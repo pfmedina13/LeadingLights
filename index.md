@@ -1,11 +1,12 @@
 ---
-title: Leading Lights OCA
-layout: default
+title: Home
+nav_order: 1
 ---
 
-# Leading Lights – Office of Cadet Affairs
+# Office of Cadet Affairs (OCA)
 
-Welcome to the **Office of Cadet Affairs (OCA)** portal of MOL Magsaysay Maritime Academy.
+Welcome to the **Leading Lights** documentation site for the Office of Cadet Affairs (OCA).
+This site will serve as the central hub for cadet systems, guidelines, programs, and resources.
 
 This site will eventually become the **central hub** for:
 
