@@ -24,4 +24,4 @@ This repository will power a **GitHub Pages website**, built to be:
 - **Accessible on any browser**
 - **Designed like a university documentation portal**
 
-More secti
+More sections and features will be added as we build the site structure.
