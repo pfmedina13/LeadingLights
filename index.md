@@ -5,6 +5,11 @@ title: LeadingLights OCA Portal
 # LeadingLights  
 ### Office of Cadet Affairs · MOL Magsaysay Maritime Academy
 
+<div style="padding: 1rem; border-left: 6px solid orange; background:#fff7e6; margin-bottom:1.5rem;">
+  <strong>ORANGE TEST BOX:</strong>  
+  If you see this with an orange bar on the left, custom styling works.
+</div>
+
 Welcome to the **LeadingLights OCA Portal**.  
 This site serves as the central hub for **non-academic formation, leadership development, and cadet services**.
 
@@ -29,4 +34,64 @@ This site serves as the central hub for **non-academic formation, leadership dev
 The **Office of Cadet Affairs (OCA)** is responsible for the **holistic formation** of MMMA cadets beyond academics.  
 We focus on character, leadership, discipline, physical fitness, and life skills — forming cadets who will be **leading lights** in the maritime industry and in life.
 
-> “We train cadets not ju
+> “We train cadets not just for a job, but for life.”
+
+Here you will find:
+- Vision, mission, and OCA philosophy  
+- CLAP-L domains  
+- Leadership and formation systems  
+- OCA’s role in cadet development  
+
+---
+
+## 2. For Cadets
+
+This section will eventually allow cadets to:
+- View **semester goals**  
+- Track **non-academic metrics**  
+- See leadership positions held each term  
+- Access reminders and guidelines  
+
+> Future update: Cadet dashboard with goals, metrics, awards, and FO assignments.
+
+---
+
+## 3. For Formation Officers
+
+For FOs and OCA staff:
+
+- Coaching guidelines  
+- Coachee lists and monitoring tools  
+- 360 evaluation resources  
+- Leadership grading templates  
+
+---
+
+## 4. Programs & Campaigns
+
+Programs anchored on OCA’s mission:
+
+- CLDP (Cadet Leadership Development Program)  
+- SLDP (Special Leadership Development Program)  
+- Live The Code Campaign  
+- Code for Life formation  
+- Cadet Candidate Orientation Program  
+- Other leadership labs, seminars, and retreats  
+
+---
+
+## 5. Policies & Guidelines
+
+Central references and systems:
+- Merits and demerits system  
+- Liberty & restrictions  
+- Disciplinary expectations  
+- Dormitory & mess hall discipline  
+- Conduct and behavior standards  
+
+---
+
+## 6. Forms & Downloads
+
+Downloadable resources and templates:
+- Goal-s
